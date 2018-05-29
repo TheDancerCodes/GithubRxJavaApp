@@ -11,7 +11,7 @@ In this project, we'll use the following resources:
 
 This project is built with Gradle, the [Android Gradle plugin](http://tools.android.com/tech-docs/new-build-system/user-guide). Follow the steps below to setup the project localy.
 
-* Clone [GitHubRxJava App](https://github.com/TheDancerCodes/Gusa) inside your working folder.
+* Clone [GitHubRxJava App](https://github.com/TheDancerCodes/GithubRxJavaApp) inside your working folder.
 * Start Android Studio
 * Select "Open Project" and select the generated root Project folder
 * You may be prompted with "Unlinked gradle project" -> Select "Import gradle project" and select
